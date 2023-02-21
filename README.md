@@ -13,4 +13,12 @@ This app can also be used over the internet by connecting devices using ZeroTier
 - Currently only two devices can be connected to eachother at the same time. This will change in the upcomming versions
 - Every time the user selects a video, this app will copy the video into the cache. This is due to the fact that [flutter can't directly access the video and its absolute path](https://github.com/miguelpruivo/flutter_file_picker/wiki/FAQ). But before opening another video, the cache will be cleared.
 
+## Screenshots
+
+<p float="left">
+<img src="https://github.com/Arash-san/Video-sync/blob/08837d4710860743d31c409f85e12b13378152fb/readme%20assets/1.jpg?raw=truehttps://github.com/Arash-san/Video-sync/blob/08837d4710860743d31c409f85e12b13378152fb/readme%20assets/1.jpg?raw=true" width="200"/>
+
+<img src="https://github.com/Arash-san/Video-sync/blob/08837d4710860743d31c409f85e12b13378152fb/readme%20assets/2.jpg?raw=true" width="200"/>
+</p>
+
 
