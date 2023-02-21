@@ -1,7 +1,7 @@
 
 # Video sync
 
-An application that synchronizes video playback between android devices in the same network.
+An application that synchronizes video playback between android devices on the same network. You can download the app [here](https://github.com/Arash-san/Video-sync/releases/tag/alpha)
 
 This app is made with flutter. [flutter_vlc_player](https://pub.dev/packages/flutter_vlc_player) is used for the player.
 
